@@ -1,0 +1,16 @@
+/*  max width for mobile devices */
+@media (max-width: 640px) {
+  .cstm-footer-widget {
+    display: flex;
+    flex-direction: column;
+  }
+}
+/* end max width for mobile devices */
+
+@media (min-width: 640px) {
+  .cstm-footer-widget {
+    justify-self: center;
+    align-items: center;
+    text-align: center;
+  }
+}

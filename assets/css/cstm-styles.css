@@ -1,0 +1,9 @@
+.follow-us ul {
+  display: flex;
+  gap: 2rem;
+}
+.cstm-footer-widget {
+  display: flex;
+  flex-direction: column;
+  
+}
