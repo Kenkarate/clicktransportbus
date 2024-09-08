@@ -109,8 +109,6 @@ include('header.php');
             </div>
             <div class="row">
 
-
-
                 <div class="col-xl-12">
                     <div class="tour-slider owl-carousel">
                         <div class="single-tour">
@@ -118,6 +116,8 @@ include('header.php');
                                 <img src="assets/nexus-assets/images/services/staffTransfer.jpg" alt="tour-1" />
                                 <div class="tour-content text-center">
                                     <h4>Staff Transfers</h4>
+
+                                    <a type="button" data-toggle="modal" data-target="#staffTransferModal" class="link-btn">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@ include('header.php');
 
                     <div class="col-12 pt-5 text-center">
                         <a href="services">
-                            <button class="btn" >View More</button>
+                            <button class="btn">View More</button>
                         </a>
                     </div>
 
