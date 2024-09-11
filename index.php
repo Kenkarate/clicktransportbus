@@ -126,6 +126,7 @@ include('header.php');
                                 <img src="assets/nexus-assets/images/services/schoolTransfer.jpg" alt="tour-1" />
                                 <div class="tour-content text-center">
                                     <h4>School Transfers</h4>
+                                    <a type="button" data-toggle="modal" data-target="#schoolTransferModal" class="link-btn">Read more</a>
                                 </div>
                             </div>
                         </div>
@@ -134,7 +135,7 @@ include('header.php');
                                 <img src="assets/nexus-assets/images/services/officeTransfer.png" alt="tour-1" />
                                 <div class="tour-content text-center">
                                     <h4>Office Transfers</h4>
-
+                                    <a type="button" data-toggle="modal" data-target="#officeTransferModal" class="link-btn">Read more</a>
                                 </div>
                             </div>
                         </div>

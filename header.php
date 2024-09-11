@@ -32,7 +32,7 @@
 
 <body>
     <!-- pre loader area start -->
-    <div id="loading">
+    <!-- <div id="loading">
         <div id="loading-center">
             <div id="loading-center-absolute">
                 <div class="object" id="object_one"></div>
@@ -40,7 +40,7 @@
                 <div class="object" id="object_three"></div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- pre loader area end -->
 
     <!-- scroll up area start -->
