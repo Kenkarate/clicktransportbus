@@ -78,8 +78,10 @@
             <div class="footer-content">
               <div class="quick-links">
                 <ul>
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">About</a></li>
+                  <li>
+                    <a href="./"> Home</a>
+                  </li>
+                  <li><a href="">About</a></li>
                   <li><a href="#">Services</a></li>
                   <li><a href="#">Contact Us</a></li>
                 </ul>
@@ -157,7 +159,7 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Staff Transfers</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Staff transport</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -177,7 +179,7 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">School Transfers </h5>
+        <h5 class="modal-title" id="exampleModalLabel">School transport </h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -197,7 +199,7 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Office Transfers</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Office transport</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -213,18 +215,18 @@
     </div>
   </div>
 </div>
-<div class="modal fade" id="crewTransferModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="ReligiousTransferModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Crew Transfers</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Religious institute transport</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
         <p>
-          Crew bus rental services in Dubai provide convenient, reliable, and affordable transportation solutions for groups of all sizes. Call Famous Passenger Transport Dubai today for best coach hire services in Dubai.
+          We provide transport services to various religious institutes like church, temple, mosque etc
         </p>
       </div>
       <div class="modal-footer">

@@ -78,7 +78,7 @@
                             <div class="main-menu">
                                 <nav id="mobile-menu">
                                     <ul>
-                                        <li>
+                                        <!-- <li>
                                             <a href="#" class="arrow"> Home</a>
                                             <ul class="submenu">
                                                 <li><a href="#">Submenu 1</a></li>
@@ -88,18 +88,14 @@
                                                 <li><a href="#">Submenu 5</a></li>
                                                 <li><a href="#">Submenu 6</a></li>
                                             </ul>
-                                        </li>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Packages</a></li>
-                                        <li><a href="#">Hotels</a></li>
-                                        <li><a href="#">Jobs</a></li>
+                                        </li> -->
                                         <li>
-                                            <a href="#" class="arrow">NEWS</a>
-                                            <ul class="submenu">
-                                                <li><a href="blog-details.html">News Details</a></li>
-                                            </ul>
+                                            <a href="./"> Home</a>
                                         </li>
-                                        <li><a href="#">Life</a></li>
+                                        <li><a href="">About</a></li>
+                                        <li><a href="#">Services</a></li>
+                                        <li><a href="#">Contact Us</a></li>
+
                                     </ul>
                                 </nav>
                             </div>

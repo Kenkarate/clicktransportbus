@@ -37,3 +37,13 @@
 .sectionPadding {
   padding: 90px 0;
 }
+.modal-title {
+  text-transform: capitalize;
+}
+.tour-content h4 {
+  text-transform: capitalize;
+  line-height: 1.9rem;
+}
+.form-container {
+  padding: 90px 0;
+}
