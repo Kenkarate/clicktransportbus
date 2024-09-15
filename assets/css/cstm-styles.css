@@ -45,5 +45,9 @@
   line-height: 1.9rem;
 }
 .form-container {
-  padding: 90px 0;
+  /* padding: 90px; */
+  background: white;
+}
+.bgDiv {
+  background: #f8f8f8;
 }
