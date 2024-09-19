@@ -51,3 +51,22 @@
 .bgDiv {
   background: #f8f8f8;
 }
+.clientContainer {
+  border: 1px solid #cccccc;
+  height: 130px;
+  display: flex;
+  justify-content: center;
+}
+.clientContainer img {
+  padding: 20px;
+  height: 100%;
+  object-fit: contain;
+  filter: grayscale(1);
+}
+.clientContainer img:hover {
+  filter: grayscale(0);
+  transition: 0.3s ease all;
+}
+.cstm-padding-clients {
+  padding: 0;
+}

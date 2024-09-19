@@ -152,6 +152,107 @@ include('header.php');
         </div>
     </section>
     <!-- tour area end -->
+    <section class="tour-area pb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-8 offset-xl-2">
+                    <div class="sec-title text-center mb-50">
+                        <h1>Our Clients</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/lulu-group-logo-en.png" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/adnoc-logo-updated.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/airarabia_logo.png" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/al_ain_water_newLogo.png" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/emirates-american-school.png" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/firenor.png" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/grp-logo.png" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/hempel.webp" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/km-trading.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/horizon-geo.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/atkins.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/consilium-new.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/kent-logo-healthcare.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/nikon.webp" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/nmc-hospital.webp" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/the-indian-academy.png" alt="">
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 cstm-padding-clients">
+                    <div class="clientContainer">
+                        <img class="img-fluid" src="assets/nexus-assets/images/clients/tionale.jpg" alt="">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- tour area end -->
 
 
 </main>
