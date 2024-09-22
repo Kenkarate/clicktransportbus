@@ -81,9 +81,10 @@
                   <li>
                     <a href="./"> Home</a>
                   </li>
-                  <li><a href="">About</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="index.html#about">About</a></li>
+                  <li><a href="services.html">Services</a></li>
+                  <li><a href="our-fleet.html">Fleets</a></li>
+                  <li><a href="contact.html">Contact Us</a></li>
                 </ul>
               </div>
             </div>
@@ -126,7 +127,7 @@
                   var year = new Date();
                   document.write(year.getFullYear());
                 </script>
-                <a href="#"> company name </a>. All Rights Reserved.
+                <a href="#"> Click Passenger Buses Transport </a>. All Rights Reserved.
               </p>
             </div>
           </div>

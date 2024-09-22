@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Bahon - Travel Agency HTML5 Template</title>
+    <title>Click Passenger Buses Transport</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -12,7 +12,7 @@
     <link
         rel="shortcut icon"
         type="image/x-icon"
-        href="assets/img/fav-icon.jpg" />
+        href="assets/nexus-assets/images/logo/favicon-32x32.png" />
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
@@ -56,7 +56,10 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-5 col-6">
                         <div class="header-top-left">
-                            <span class="d-none d-sm-inline-block"><i class="fas fa-phone-alt"></i>+921 - 48564254</span>
+                            <span class="d-none d-sm-inline-block"><i class="fas fa-phone-alt"></i>
+                                <a href="tel:+97150 1702255"> +97150 1702255</a>,
+                                <a href="tel:+97150 1686653">+97150 1686653</a>
+                            </span>
                             <span class="d-none d-lg-inline-block"><i class="fas fa-envelope"></i>Demo@gmail.com</span>
                         </div>
                     </div>
@@ -92,9 +95,10 @@
                                         <li>
                                             <a href="./"> Home</a>
                                         </li>
-                                        <li><a href="">About</a></li>
-                                        <li><a href="#">Services</a></li>
-                                        <li><a href="#">Contact Us</a></li>
+                                        <li><a href="index.html#about">About</a></li>
+                                        <li><a href="services.html">Services</a></li>
+                                        <li><a href="our-fleet.html">Fleets</a></li>
+                                        <li><a href="contact.html">Contact Us</a></li>
 
                                     </ul>
                                 </nav>

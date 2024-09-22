@@ -1,5 +1,5 @@
 <?php
-include('api/header.php');
+include('header.php');
 ?>
 <main>
     <!-- slider area start -->
@@ -47,7 +47,7 @@ include('api/header.php');
     <!-- slider area end -->
 
     <!-- About section -->
-    <section class="best-money pt-100 pb-125 grey-bg">
+    <section class="best-money pt-100 pb-125 grey-bg" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-12">
@@ -88,7 +88,7 @@ include('api/header.php');
                             passenger transport services. We are committed to enhancing
                             our offerings to meet your needs. Experience the best
                             passenger transport company in Sharjah today by calling us at
-                            +971-XXXX-XXXX (dummy number).
+                            <a href="tel:+97150 1702255">+97150 1702255</a> ,<a href="tel:+97150 1686653">+97150 1686653</a> .
                         </p>
                     </div>
                 </div>
@@ -257,5 +257,5 @@ include('api/header.php');
 
 </main>
 <?php
-include('api/footer.php');
+include('footer.php');
 ?>
