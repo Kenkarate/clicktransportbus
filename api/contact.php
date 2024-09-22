@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('api/header.php'); ?>
 <section class="innerPageBannerSec position-relative d-flex justify-content-center align-items-center">
     <div class="overlay"></div>
     <div class="container">
@@ -54,4 +54,4 @@
 
 
 
-<?php include('footer.php'); ?>
+<?php include('api/footer.php'); ?>

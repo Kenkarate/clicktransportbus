@@ -1,5 +1,5 @@
 <?php
-include('header.php');
+include('api/header.php');
 ?>
 <main>
     <!-- slider area start -->
@@ -257,5 +257,5 @@ include('header.php');
 
 </main>
 <?php
-include('footer.php');
+include('api/footer.php');
 ?>
