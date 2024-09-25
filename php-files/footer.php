@@ -167,7 +167,7 @@
       </div>
       <div class="modal-body">
         <p>
-          Staff bus rental services in UAE provide convenient, reliable, and affordable transportation solutions for groups of all sizes. Call Click Transport UAE today for best coach hire services in UAE.
+          Staff bus rental services in UAE provide convenient, reliable, and affordable transportation solutions for groups of all sizes. Call Click Passenger Transport UAE today for best coach hire services in UAE.
         </p>
       </div>
       <div class="modal-footer">
@@ -187,7 +187,7 @@
       </div>
       <div class="modal-body">
         <p>
-          Students transportation services in UAE are a great option for those looking to transport students to and from school safely and comfortably. Click Transport offered affordable bus rental services in UAE.
+          Students transportation services in UAE are a great option for those looking to transport students to and from school safely and comfortably. Click Passenger Transport offered affordable bus rental services in UAE.
         </p>
       </div>
       <div class="modal-footer">
@@ -247,7 +247,7 @@
       </div>
       <div class="modal-body">
         <p>
-          Click Transport UAE provides top–notch office bus rental services for city tours in UAE. Our service is designed to provide a comfortable and convenient way to explore the city and its attractions.
+          Click Passenger Transport UAE provides top–notch office bus rental services for city tours in UAE. Our service is designed to provide a comfortable and convenient way to explore the city and its attractions.
         </p>
       </div>
       <div class="modal-footer">
@@ -267,7 +267,7 @@
       </div>
       <div class="modal-body">
         <p>
-          Click Transport UAE is a leading provider of Office Bus Rental Services for U.A.E Tour in UAE. With a wide range of buses, they offer a safe and reliable service for U.A.E Tour. Their buses come with comfortable seating, air–conditioning, and audio/visual systems.
+          Click Passenger Transport UAE is a leading provider of Office Bus Rental Services for U.A.E Tour in UAE. With a wide range of buses, they offer a safe and reliable service for U.A.E Tour. Their buses come with comfortable seating, air–conditioning, and audio/visual systems.
         </p>
       </div>
       <div class="modal-footer">
@@ -287,7 +287,7 @@
       </div>
       <div class="modal-body">
         <p>
-          Click Transport UAE provides reliable and cost–effective transportation solutions for site workers in UAE. We offer a wide range of services, from minibus and bus rental to luxury coach hire, ensuring that all site workers have access to safe and comfortable transportation services.
+          Click Passenger Transport UAE provides reliable and cost–effective transportation solutions for site workers in UAE. We offer a wide range of services, from minibus and bus rental to luxury coach hire, ensuring that all site workers have access to safe and comfortable transportation services.
         </p>
       </div>
       <div class="modal-footer">
