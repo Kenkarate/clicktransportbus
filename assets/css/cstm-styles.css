@@ -73,3 +73,19 @@
 .fleetSpan a {
   font-size: large;
 }
+.innerpageServiceImgDiv img {
+  width: 100%;
+}
+.servicePageContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.col-flex-service {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.servicePageRow{
+  width: 100%;
+}
