@@ -61,7 +61,9 @@
                         <span><i class="fal fa-envelope"></i></span>
                       </div>
                       <div class="text">
-                        <p>yourmail@gmail.com</p>
+                        <p><a href="mailto:info@clicktransportsharjah.com">
+                            info@clicktransportsharjah.com
+                          </a></p>
                       </div>
                     </div>
                   </li>
@@ -267,7 +269,7 @@
       </div>
       <div class="modal-body">
         <p>
-          Click Passenger Transport UAE is a leading provider of Office Bus Rental Services for Airport & Hotel Transport  in UAE. With a wide range of buses, they offer a safe and reliable service for Airport & Hotel Transport . Their buses come with comfortable seating, air–conditioning, and audio/visual systems.
+          Click Passenger Transport UAE is a leading provider of Office Bus Rental Services for Airport & Hotel Transport in UAE. With a wide range of buses, they offer a safe and reliable service for Airport & Hotel Transport . Their buses come with comfortable seating, air–conditioning, and audio/visual systems.
         </p>
       </div>
       <div class="modal-footer">

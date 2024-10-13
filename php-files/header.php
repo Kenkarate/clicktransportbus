@@ -60,7 +60,7 @@
                                 <a href="tel:+97150 1702255"> +97150 1702255</a>,
                                 <a href="tel:+97150 1686653">+97150 1686653</a>
                             </span>
-                            <span class="d-none d-lg-inline-block"><i class="fas fa-envelope"></i>Demo@gmail.com</span>
+                            <span class="d-none d-lg-inline-block"><i class="fas fa-envelope"></i>info@clicktransportsharjah.com</span>
                         </div>
                     </div>
 
